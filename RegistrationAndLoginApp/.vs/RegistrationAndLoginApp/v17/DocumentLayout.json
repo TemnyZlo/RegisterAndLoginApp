@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\projekt\\reandlog\\RegisterAndLoginApp\\RegistrationAndLoginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33B7D3-49D3-46CA-9EFF-E56F8D184CA1}|RegistrationAndLoginApp\\RegistrationAndLoginApp.csproj|z:\\projekt\\reandlog\\registerandloginapp\\registrationandloginapp\\registrationandloginapp\\views\\login\\loginfailure.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C33B7D3-49D3-46CA-9EFF-E56F8D184CA1}|RegistrationAndLoginApp\\RegistrationAndLoginApp.csproj|solutionrelative:registrationandloginapp\\views\\login\\loginfailure.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33B7D3-49D3-46CA-9EFF-E56F8D184CA1}|RegistrationAndLoginApp\\RegistrationAndLoginApp.csproj|z:\\projekt\\reandlog\\registerandloginapp\\registrationandloginapp\\registrationandloginapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C33B7D3-49D3-46CA-9EFF-E56F8D184CA1}|RegistrationAndLoginApp\\RegistrationAndLoginApp.csproj|solutionrelative:registrationandloginapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33B7D3-49D3-46CA-9EFF-E56F8D184CA1}|RegistrationAndLoginApp\\RegistrationAndLoginApp.csproj|z:\\projekt\\reandlog\\registerandloginapp\\registrationandloginapp\\registrationandloginapp\\views\\login\\loginsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C33B7D3-49D3-46CA-9EFF-E56F8D184CA1}|RegistrationAndLoginApp\\RegistrationAndLoginApp.csproj|solutionrelative:registrationandloginapp\\views\\login\\loginsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33B7D3-49D3-46CA-9EFF-E56F8D184CA1}|RegistrationAndLoginApp\\RegistrationAndLoginApp.csproj|z:\\projekt\\reandlog\\registerandloginapp\\registrationandloginapp\\registrationandloginapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C33B7D3-49D3-46CA-9EFF-E56F8D184CA1}|RegistrationAndLoginApp\\RegistrationAndLoginApp.csproj|solutionrelative:registrationandloginapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C33B7D3-49D3-46CA-9EFF-E56F8D184CA1}|RegistrationAndLoginApp\\RegistrationAndLoginApp.csproj|z:\\projekt\\reandlog\\registerandloginapp\\registrationandloginapp\\registrationandloginapp\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C33B7D3-49D3-46CA-9EFF-E56F8D184CA1}|RegistrationAndLoginApp\\RegistrationAndLoginApp.csproj|solutionrelative:registrationandloginapp\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginFailure.cshtml",
+              "DocumentMoniker": "Z:\\projekt\\reandlog\\RegisterAndLoginApp\\RegistrationAndLoginApp\\RegistrationAndLoginApp\\Views\\Login\\LoginFailure.cshtml",
+              "RelativeDocumentMoniker": "RegistrationAndLoginApp\\Views\\Login\\LoginFailure.cshtml",
+              "ToolTip": "Z:\\projekt\\reandlog\\RegisterAndLoginApp\\RegistrationAndLoginApp\\RegistrationAndLoginApp\\Views\\Login\\LoginFailure.cshtml",
+              "RelativeToolTip": "RegistrationAndLoginApp\\Views\\Login\\LoginFailure.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T12:36:45.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginSuccess.cshtml",
+              "DocumentMoniker": "Z:\\projekt\\reandlog\\RegisterAndLoginApp\\RegistrationAndLoginApp\\RegistrationAndLoginApp\\Views\\Login\\LoginSuccess.cshtml",
+              "RelativeDocumentMoniker": "RegistrationAndLoginApp\\Views\\Login\\LoginSuccess.cshtml",
+              "ToolTip": "Z:\\projekt\\reandlog\\RegisterAndLoginApp\\RegistrationAndLoginApp\\RegistrationAndLoginApp\\Views\\Login\\LoginSuccess.cshtml",
+              "RelativeToolTip": "RegistrationAndLoginApp\\Views\\Login\\LoginSuccess.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T10:24:10.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Z:\\projekt\\reandlog\\RegisterAndLoginApp\\RegistrationAndLoginApp\\RegistrationAndLoginApp\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "RegistrationAndLoginApp\\Views\\Login\\Index.cshtml",
+              "ToolTip": "Z:\\projekt\\reandlog\\RegisterAndLoginApp\\RegistrationAndLoginApp\\RegistrationAndLoginApp\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "RegistrationAndLoginApp\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T09:22:02.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "Z:\\projekt\\reandlog\\RegisterAndLoginApp\\RegistrationAndLoginApp\\RegistrationAndLoginApp\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "RegistrationAndLoginApp\\Models\\UserModel.cs",
+              "ToolTip": "Z:\\projekt\\reandlog\\RegisterAndLoginApp\\RegistrationAndLoginApp\\RegistrationAndLoginApp\\Models\\UserModel.cs",
+              "RelativeToolTip": "RegistrationAndLoginApp\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:17:51.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "Z:\\projekt\\reandlog\\RegisterAndLoginApp\\RegistrationAndLoginApp\\RegistrationAndLoginApp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "RegistrationAndLoginApp\\Controllers\\LoginController.cs",
+              "ToolTip": "Z:\\projekt\\reandlog\\RegisterAndLoginApp\\RegistrationAndLoginApp\\RegistrationAndLoginApp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "RegistrationAndLoginApp\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:17:16.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
