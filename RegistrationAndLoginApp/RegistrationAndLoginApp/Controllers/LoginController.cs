@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using RegistrationAndLoginApp.Models;
+using RegistrationAndLoginApp.Services;
 
 namespace RegistrationAndLoginApp.Controllers
 {
@@ -14,7 +15,9 @@ namespace RegistrationAndLoginApp.Controllers
         public IActionResult ProcessLogin(UserModel userModel)
         {
 
-            if (userModel.UserName == "BillGates" && userModel.Password == "bigbucks")
+            SecurityService securityService = new SecurityService();
+
+            if (securityService.IsValid(userModel))
             {
 
                 return View("LoginSuccess", userModel);

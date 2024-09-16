@@ -223,3 +223,10 @@ Z:\projekt\reandlog\RegisterAndLoginApp\RegistrationAndLoginApp\RegistrationAndL
 Z:\projekt\reandlog\RegisterAndLoginApp\RegistrationAndLoginApp\RegistrationAndLoginApp\obj\Debug\net8.0\RegistrationAndLoginApp.pdb
 Z:\projekt\reandlog\RegisterAndLoginApp\RegistrationAndLoginApp\RegistrationAndLoginApp\obj\Debug\net8.0\RegistrationAndLoginApp.genruntimeconfig.cache
 Z:\projekt\reandlog\RegisterAndLoginApp\RegistrationAndLoginApp\RegistrationAndLoginApp\obj\Debug\net8.0\ref\RegistrationAndLoginApp.dll
+Z:\projekt\reandlog\RegisterAndLoginApp\RegistrationAndLoginApp\RegistrationAndLoginApp\bin\Debug\net8.0\System.Data.SqlClient.dll
+Z:\projekt\reandlog\RegisterAndLoginApp\RegistrationAndLoginApp\RegistrationAndLoginApp\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+Z:\projekt\reandlog\RegisterAndLoginApp\RegistrationAndLoginApp\RegistrationAndLoginApp\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+Z:\projekt\reandlog\RegisterAndLoginApp\RegistrationAndLoginApp\RegistrationAndLoginApp\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+Z:\projekt\reandlog\RegisterAndLoginApp\RegistrationAndLoginApp\RegistrationAndLoginApp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\projekt\reandlog\RegisterAndLoginApp\RegistrationAndLoginApp\RegistrationAndLoginApp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\projekt\reandlog\RegisterAndLoginApp\RegistrationAndLoginApp\RegistrationAndLoginApp\obj\Debug\net8.0\RegistrationAndLoginApp.sourcelink.json
